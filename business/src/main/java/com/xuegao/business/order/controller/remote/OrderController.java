@@ -1,4 +1,4 @@
-package com.xuegao.business.order.controller;
+package com.xuegao.business.order.controller.remote;
 
 /**
  * <br/> @PackageName：com.xuegao.order.controller

@@ -11,7 +11,7 @@
     <modules>
         <module>business-util</module>
         <module>business</module>
-        <module>business-api</module>
+        <module>business-model</module>
         <module>business-call</module>
         <module>business-client</module>
     </modules>
